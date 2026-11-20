@@ -1,0 +1,5 @@
+ColorSPY2026.exe
+build/
+*.pdb
+*.user
+.vs/
