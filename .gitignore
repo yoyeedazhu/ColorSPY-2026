@@ -3,3 +3,5 @@ build/
 *.pdb
 *.user
 .vs/
+.deploy_key*
+.ssh_known_hosts
