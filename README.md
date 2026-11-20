@@ -1,5 +1,7 @@
 # ColorSPY 2026
 
+[English](README.en.md) | 简体中文
+
 右下角托盘取色小工具：平时只占一个小条；点“屏幕取色”或按 `Ctrl+Alt+C` 才进入全屏拾取模式，鼠标变十字、带放大镜，点击只取色，不会触发下面任何程序。
 
 Windows 10 / 11 · .NET Framework 4.8 · 单文件 · 无 Flash · 不联网
