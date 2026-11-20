@@ -137,7 +137,7 @@ namespace ColorSpy
             {
                 if (screens[i].Bounds.Contains(global)) { target = screens[i]; break; }
             }
-            _monName = target == null ? "" : target.DeviceName.Replace("\\.\\", "");
+            _monName = target == null ? "" : target.DeviceName.Replace("\\\\.\\", "");
             int dpi = 96;
             try
             {
